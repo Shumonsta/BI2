@@ -228,3 +228,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   My Mentor for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
+
+### Version control
+
+#### V1.0 Google Map API loaded in first Master gitpod upload
+#### V1.1 Loaded image grpread png file for README header
+#### V1.2 Reload for updated README notes V1.1 and V1.2
+
