@@ -1,10 +1,10 @@
 # BI2
 A Group Project as part of Code Institute's July Hackathon 2020 
-<h1 align="center">Code Institute Website</h1>
+<h1 align="center">Readofamily Website</h1>
 
 [View the live project here.](TBA)
 
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This is the main marketing website for readofamily. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential svolunteers and participants interested in taking part in the activities.
 
 <h2 align="center"><img src="img/grpread.png"></h2>
 
@@ -39,11 +39,7 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
-
-    -   Mobile Wireframe - [View](https://github.com/)
-
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Wireframe - [View](https://github.com/)
 
 ## Features
 
@@ -109,7 +105,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find the new programming challenges or hackathons.
+    1. As a Returning Visitor, I want to find the new activities.
 
         1. These are clearly shown in the banner message.
         2. They will be directed to a page with another hero image and call to action.
@@ -151,9 +147,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   Any known bugs
 
 ## Deployment
 
@@ -207,25 +201,21 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
-
 -   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+
 
 ### Content
 
--   All content was written by the developer.
-
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+-   Content was written by the developers and from the Colorib template.
 
 ### Media
 
--   All Images were created by the developer.
+-   All Images came from x or the Colorib template.
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   The hackathon BI2 team for the ongoing group work on the project.
 
 -   Tutor support at Code Institute for their support.
 
@@ -234,4 +224,5 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 #### V1.0 Google Map API loaded in first Master gitpod upload
 #### V1.1 Loaded image grpread png file for README header
 #### V1.2 Reload for updated README notes V1.1 and V1.2
+#### V1.3 Amends to README text
 
