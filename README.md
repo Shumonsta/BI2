@@ -186,3 +186,4 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 #### V1.4 Amendment to parent button on contact form
 #### V1.5 Text update to the README and web page link
 #### V1.6 Text update to the Activities page
+#### V1.7 Updated text on actitvies page for spelling error
